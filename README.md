@@ -1,5 +1,5 @@
 # title
 
-##Subheading
+## Subheading
 
 My beautiful first repo
